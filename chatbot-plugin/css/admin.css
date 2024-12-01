@@ -1,0 +1,45 @@
+.dashboard-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.stat-card {
+    background: white;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.stat-number {
+    font-size: 24px;
+    font-weight: bold;
+    color: #2271b1;
+    margin: 10px 0;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.form-table td label {
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+.delete-resource {
+    color: #dc3545;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 782px) {
+    .dashboard-stats {
+        grid-template-columns: 1fr;
+    }
+}

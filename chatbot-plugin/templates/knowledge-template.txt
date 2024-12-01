@@ -1,0 +1,5 @@
+TOPIC: Course Name
+KEYWORDS: keyword1, keyword2, keyword3
+RESPONSE: Your detailed response here. Can include HTML links.
+URL: https://www.example.com/course
+---

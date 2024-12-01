@@ -1,0 +1,84 @@
+// Main Courses
+COURSE: Beginner Blacksmithing
+KEYWORDS: beginner, start, introduction, new, basic, first time, learn, intro, starting
+DURATION: One Day Course
+PRICE: $264 per person (Includes GST & Booking Fees)
+DESCRIPTION: Perfect for those who want to try their hand at blacksmithing. Learn the basics of moving hot steel and proper hammer control. Create your own hand-forged items to take home. This course is designed to give you a taste of what it's like to be a blacksmith.
+URL: https://www.artisanestate.com.au/beginner-blacksmithing/
+REQUIREMENTS: No experience necessary
+INCLUDES: All materials and tools provided
+RESPONSE: Our Beginner Blacksmithing is a one-day course priced at $264 per person (including GST & Booking Fees). You'll learn basic techniques and create your own hand-forged items to take home. The course covers the fundamentals of blacksmithing, including hammer control and working with hot steel.
+---
+
+COURSE: Chef Knife Making
+KEYWORDS: chef, kitchen, knife, cooking, culinary, professional, kitchen knife
+DURATION: One Day Course
+PRICE: $528 per person (Includes GST & Booking Fees)
+DESCRIPTION: Create your own professional chef knife from start to finish. Learn about steel selection, heat treatment, and handle making. This course will teach you the skills needed to craft a high-quality kitchen knife.
+URL: https://www.artisanestate.com.au/chef-knife/
+REQUIREMENTS: No prior experience required
+INCLUDES: All materials and tools provided
+RESPONSE: In our one-day Chef Knife Making course, priced at $528 per person (including GST & Booking Fees), you'll create your own professional kitchen knife. You'll learn about blade design, heat treatment, and handle fitting, resulting in a knife you'll be proud to use in your kitchen.
+---
+
+COURSE: Bushcraft Knife
+KEYWORDS: bushcraft, outdoor, survival, hunting, camping, bush knife
+DURATION: One Day Course
+PRICE: $200 per person (Includes GST & Booking Fees)
+DESCRIPTION: Forge your own bushcraft knife in this comprehensive course. Learn about knife design principles and heat treatment processes. Create a practical tool perfect for outdoor use.
+URL: https://www.artisanestate.com.au/bushcraft-knife/
+REQUIREMENTS: No prior experience required
+INCLUDES: All materials and tools provided
+RESPONSE: Our one-day Bushcraft Knife Making course is priced at $200 per person (including GST & Booking Fees). You'll learn to forge your own outdoor knife, covering proper blade design for outdoor use and heat treatment techniques to create a durable tool for your adventures.
+---
+
+COURSE: Become the Maker
+KEYWORDS: comprehensive, advanced, complete, maker, extensive, four day
+DURATION: One Day Course
+PRICE: $422 per person (Includes GST and Booking Fees)
+DESCRIPTION: Our most comprehensive course where you'll learn traditional blacksmithing skills and create multiple projects. Perfect for those wanting to set up their own forge or develop a deeper understanding of blacksmithing.
+URL: https://www.artisanestate.com.au/become-the-maker/
+REQUIREMENTS: No prior experience required but suitable for all skill levels
+INCLUDES: All materials and tools provided
+RESPONSE: Become the Maker is our comprehensive one-day course, priced at $422 per person (including GST and Booking Fees). You'll learn traditional blacksmithing skills and create multiple projects. This is our most extensive program, perfect for those wanting to develop a deeper understanding of the craft.
+---
+
+// General Information
+TOPIC: Location
+KEYWORDS: location, where, address, directions, find us, where are you, address
+RESPONSE: We're located in Somersby NSW. The exact address will be provided when you book your course.
+URL: https://www.artisanestate.com.au/portfolio/blacksmithing/
+---
+
+TOPIC: Equipment
+KEYWORDS: equipment, bring, wear, clothing, tools, safety gear, what to bring, what to wear
+RESPONSE: All tools and materials are provided for your course. Please wear closed-toe boots and natural fiber clothing (cotton). No synthetic materials should be worn.
+INCLUDES: All necessary tools, materials, and safety equipment are provided
+---
+
+TOPIC: Booking
+KEYWORDS: book, register, enroll, sign up, reserve, payment, how to book, booking
+RESPONSE: You can book any of our courses through our website. Visit the specific course page for available dates and booking information. All prices include GST and booking fees.
+URL: https://www.artisanestate.com.au/portfolio/blacksmithing/
+---
+
+TOPIC: Pricing
+KEYWORDS: cost, price, fees, how much, pricing, expensive
+RESPONSE: Our course prices (all including GST & Booking Fees) are: Beginner Blacksmithing ($264), Chef Knife Making ($528), Bushcraft Knife ($200), and Become the Maker ($422). All courses are one day and include all materials and tools.
+---
+
+TOPIC: General
+KEYWORDS: help, information, courses, what, overview
+RESPONSE: We offer several one-day blacksmithing experiences including Beginner Blacksmithing ($264), Chef Knife Making ($528), Bushcraft Knife ($200), and Become the Maker ($422). All prices include GST and booking fees, and all materials are provided. No prior experience is needed for any course.
+URL: https://www.artisanestate.com.au/portfolio/blacksmithing/
+---
+
+TOPIC: Experience
+KEYWORDS: experience needed, skill level, prerequisite, required experience, can I do this
+RESPONSE: No prior experience is required for any of our courses. We welcome complete beginners and can accommodate various skill levels. All our one-day courses are designed to be accessible while still being engaging for those with some experience.
+---
+
+TOPIC: Safety
+KEYWORDS: safety, safe, dangerous, risk, insurance, is it safe
+RESPONSE: Safety is our top priority. All courses begin with a comprehensive safety briefing, and we provide all necessary safety equipment. Our classes maintain small sizes to ensure proper supervision and instruction.
+INCLUDES: Safety equipment provided, safety briefing, proper supervision
